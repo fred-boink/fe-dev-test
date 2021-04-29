@@ -1,7 +1,7 @@
 # Slushy Frontend Challenge
 
 ## Getting Started
-Get an endpoint id from <a src="https://crudcrud.com/">CrudCrud</a> 
+Get an endpoint id from CrudCrud https://crudcrud.com/
 e.g https://crudcrud.com/api/f5b0a58341314c1da9bcd09b5f93225a
 
 Where "f5b0a58341314c1da9bcd09b5f93225a" is your "crudcrudEndpoint"
